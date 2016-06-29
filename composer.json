@@ -1,0 +1,8 @@
+{
+  "name": "joelvanpatten/wonkadoo",
+  "autoload": {
+    "psr-4": {
+      "JoelVanPatten\\Wonkadoo\\" : "src"
+    }
+  }
+}
